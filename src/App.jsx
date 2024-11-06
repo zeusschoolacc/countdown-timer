@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Board from './components/board'
+import Board from './components/Board'
 import InputContainer from './components/InputContainer'
 import './styles/tailwind.css'
 
